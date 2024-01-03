@@ -24,4 +24,4 @@ Eu sou o Victor, sou Programador Full-Stack, apaixonado por tecnologias procuro 
 </div>
 <br>
 
-[![Victor stats](https://github-readme-stats.vercel.app/api?username=victorgarcia10)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorgarcia10)](https://github.com/anuraghazra/github-readme-stats)
+[![Victor stats](https://github-readme-stats.vercel.app/api?username=victorgarcia10&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorgarcia10&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
